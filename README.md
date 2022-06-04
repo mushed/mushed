@@ -1,6 +1,7 @@
 - 👋 Hi, We are @mushed
-- 👀 We are a company that consists of 3 pre-teens
-- 🌱 I’m currently learning godot
+- 👀 We are a group that consists of 4 pre-teens
+- 🌱 We currently learning godot
+- ❓We use libresprite to draw
 - 📫 Reach us at - https://discord.gg/jsAMjtuvqk
 
 <!---
